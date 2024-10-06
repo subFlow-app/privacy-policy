@@ -22,6 +22,6 @@ You have the right to control how your information is stored and used. You can m
 This Privacy Policy may be updated from time to time. We will inform users of important changes through in-app notifications or other appropriate means.
 
 ## Contact
-If you have any questions about this Privacy Policy, please contact us at: supp.subflow@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at: support@subflow.com.br.
 
-Last updated: 09/29/2024
+Last updated: 10/05/2024
